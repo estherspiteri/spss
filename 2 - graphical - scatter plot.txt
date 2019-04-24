@@ -1,0 +1,3 @@
+Calorie and protein do not seem to be related as the marked points are quite scattered from the best fit line. The same applies to the calories vs fat, calories vs fiber, calories vs carbohydrates and calories vs potassium plots. However, it can be observed that the calories vs sugars and calories vs sodium plots have a stronger positive linear relationship.
+
+Outliers can be observed throughout all the plots thus implying that none have a perfect linear relationship.

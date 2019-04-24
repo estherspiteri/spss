@@ -1,0 +1,9 @@
+All manufacturers produce cereals with a median of approximately 100 calories. 
+
+Cereals manufactured by General Mills do not contain similar amounts of calories as observed due to the outliers but are rather quite dispersed from one another. 
+
+Kellogs produces an outlier as well as extreme points in terms of calories. 
+
+Calories found in cereals produced by Post have their upper quartile equal to the maximum. This is represented by the lack of a whisker. The same can be seen for Quaker Oats. 
+
+Raiston's calories are skewed to the right whereas Nabisco's, Post's, Quaker Oats' and Kellogs' are to left. 
