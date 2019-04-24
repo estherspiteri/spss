@@ -1,0 +1,7 @@
+2 - Descriptive Statistics
+
+From the above descriptives, the standard deviation of the covariates shows that the majority only are clustered closely around the mean. However, calories, sodium and potassium are less reliable as they have a larger discrepency from the mean. The high variance of these three covariates also shows that they are widely spread from the mean as well as from each other.
+
+Calories and sodium are negatively skewed. This shows that the data is mostly distributed to the right of the mean. The rest of the covariates are positevely skewed and thus their distribution is more to the left of the mean.
+
+Negative kurtosis is a characteristic of sodium, carbohydrates and sugars. This means that their data distribution is relatively flatter as compared to the normal distribution.

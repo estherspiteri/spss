@@ -1,0 +1,3 @@
+The majority of the cereals found in this data set are manufactured by "Kellogs" whilst "American Home Food Products" only manufacture one of the cereals.
+
+96.1% of the cereals are served cold whereas only 3.9% are served hot.
