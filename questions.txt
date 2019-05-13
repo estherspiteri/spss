@@ -5,3 +5,5 @@ skewness in box plot
 how to do matrix scatter plot
 
 scatter plot - not tight knit relationship  -ve or positive
+
+post hoc test?
