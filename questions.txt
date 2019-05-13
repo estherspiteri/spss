@@ -3,3 +3,5 @@ no upper quartile in calories vs manufacturer box plot for Nabisco.
 skewness in box plot
 
 how to do matrix scatter plot
+
+scatter plot - not tight knit relationship  -ve or positive
